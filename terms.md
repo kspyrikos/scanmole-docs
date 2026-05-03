@@ -4,11 +4,9 @@ _Last updated: 2026-04-25_
 
 By using ScanMole ("the app"), you agree to these terms. If you don't agree, please don't use the app.
 
-> ⚠️ This is a starting draft. Have a qualified lawyer review these terms before introducing paid features or scaling commercially.
-
 ## 1. Who we are
 
-ScanMole is operated by **Konstantinos Spyrikos**, sole proprietor based in Greece. Contact: **scanmole.support@gmail.com**.
+ScanMole is operated by **Konstantinos Spyrikos**, sole proprietor based in Denmark. Contact: **scanmole.support@gmail.com**.
 
 ## 2. What ScanMole is — and isn't
 
@@ -62,7 +60,7 @@ You can:
 Your initial payment is charged immediately when you subscribe. Renewals are charged automatically.
 
 ### 4.4 14-day right of withdrawal (EU consumer law)
-Under Directive 2011/83/EU (transposed in Greece by Law 2251/1994), consumers in the EU have a 14-day right to withdraw from distance contracts.
+Under Directive 2011/83/EU (transposed in Denmark by the Consumer Contracts Act / Forbrugeraftaleloven, and in other EU member states by equivalent national legislation), consumers in the EU have a 14-day right to withdraw from distance contracts.
 
 **For digital services**, this right is **waived** when you give explicit consent to begin the service immediately. By tapping "Subscribe" and confirming the Google Play prompt, you consent to the service starting immediately and acknowledge that you lose your 14-day withdrawal right (Directive 2011/83/EU, Article 16(m)).
 
@@ -114,7 +112,7 @@ You can stop using the app at any time by uninstalling it. We may suspend or ter
 
 ## 10. Liability
 
-To the fullest extent permitted by Greek and EU law, ScanMole and its operator disclaim liability for:
+To the fullest extent permitted by Danish and EU law, ScanMole and its operator disclaim liability for:
 - **Medical outcomes**, delayed diagnoses, or any health-related consequences arising from use of the app.
 - Indirect, incidental, consequential, or punitive damages.
 - Total liability (if any) is limited to the amount you paid us in the last 12 months.
@@ -127,7 +125,7 @@ EU consumers can submit complaints via the European Online Dispute Resolution (O
 
 ## 12. Governing law and jurisdiction
 
-These terms are governed by the laws of **Greece**, without regard to conflict-of-law principles. As a consumer, you retain the protections of mandatory consumer law in your country of residence. Disputes will be resolved in the courts of Athens, Greece, except where consumer law gives you the right to sue in your home jurisdiction.
+These terms are governed by the laws of **Denmark**, without regard to conflict-of-law principles. As a consumer, you retain the protections of mandatory consumer law in your country of residence (Brussels I bis Regulation, Article 18). Disputes will be resolved in the courts of Denmark, except where EU consumer law gives you the right to sue in your home jurisdiction.
 
 ## 13. Changes to terms
 
@@ -137,4 +135,4 @@ We may update these terms. Material changes will be announced in-app at least 14
 
 Konstantinos Spyrikos
 Email: **scanmole.support@gmail.com**
-Country: Greece
+Country: Denmark

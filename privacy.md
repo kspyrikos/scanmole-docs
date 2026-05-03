@@ -2,9 +2,7 @@
 
 _Last updated: 2026-04-25_
 
-This policy explains what ScanMole ("the app", "we", "us") does with your data. ScanMole is operated by **Konstantinos Spyrikos**, sole proprietor based in Greece. Contact: **scanmole.support@gmail.com**.
-
-> ⚠️ This is a starting draft covering common ground, not legal advice. Have a qualified Greek/EU lawyer review it before scaling commercially.
+This policy explains what ScanMole ("the app", "we", "us") does with your data. ScanMole is operated by **Konstantinos Spyrikos**, sole proprietor based in Denmark. Contact: **scanmole.support@gmail.com**.
 
 ## 1. What ScanMole is
 
@@ -50,7 +48,7 @@ Google Play distributes the app and processes any subscription purchases. Google
 We use Expo Application Services to build the app binary. Expo does not receive end-user data at runtime.
 
 ### 3.5 International data transfers
-Anthropic, Cloudflare, and Google are based in the USA. We rely on the EU-US Data Privacy Framework adequacy decision, plus Standard Contractual Clauses where applicable, for these transfers.
+Anthropic, Cloudflare, and Google are headquartered in the USA. We rely on the EU-US Data Privacy Framework adequacy decision (effective 10 July 2023) plus Standard Contractual Clauses where applicable for these transfers.
 
 ### 3.6 No other sharing
 We do not sell, rent, or share your data with advertisers, brokers, or third parties beyond the sub-processors above.
@@ -69,7 +67,7 @@ We do not sell, rent, or share your data with advertisers, brokers, or third par
 - **Logs (Cloudflare)**: 24 hours.
 - **Photos on our server**: never persisted; in-memory only during a single request.
 
-## 6. Your rights (GDPR + Greek Law 4624/2019)
+## 6. Your rights (GDPR)
 
 - **Access and export** — all your mole data is on your device. You can export it at any time from Settings → Your Data → Export. Or uninstall the app to wipe everything.
 - **Rectification** — you can edit notes, names, risk levels, and positions in the app at any time.
@@ -77,7 +75,7 @@ We do not sell, rent, or share your data with advertisers, brokers, or third par
 - **Portability** — Settings → Your Data → Export creates a JSON copy of your moles you can take elsewhere.
 - **Objection / restriction** — uninstall the app or contact us.
 - **Withdraw consent** — uninstall + clear app data via Android Settings.
-- **Complaint** — you have the right to complain to the Hellenic Data Protection Authority (Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα): <https://www.dpa.gr>.
+- **Complaint** — you have the right to complain to a data protection authority. The lead supervisory authority is the **Danish Data Protection Agency (Datatilsynet)**: <https://www.datatilsynet.dk>. You may also complain to your local national authority (e.g. for Greek residents, the Hellenic Data Protection Authority at <https://www.dpa.gr>).
 
 To exercise any right, email **scanmole.support@gmail.com**. We will respond within 30 days.
 
@@ -87,7 +85,7 @@ ScanMole is a **personal tracking and visualization aid only**. The AI's "riskLe
 
 ## 8. Children
 
-ScanMole is not directed to users under 16. We do not knowingly collect data from children under 16. (Greece sets the age of consent for information-society services at 15 under Law 4624/2019; we use the more conservative 16+ for all EU users.) If you believe a child has used the app, contact us and we will delete any associated data.
+ScanMole is not directed to users under 16. We do not knowingly collect data from children under 16. (GDPR Article 8 sets the default age of consent for information-society services at 16; some EU member states lower it to 13-15 — we apply the conservative 16+ requirement uniformly.) If you believe a child has used the app, contact us and we will delete any associated data.
 
 ## 9. Security
 
@@ -103,7 +101,7 @@ If we change how we handle data, we will update this document and bump the "Last
 
 Konstantinos Spyrikos (Data Controller)
 Email: **scanmole.support@gmail.com**
-Country: Greece
+Country: Denmark
 
 ---
 
